@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="print-msg",
+    name="print_msg",
     version="0.9",
     author="Shvetsov Dmitry",
     author_email="shvetsovdmitry1996@gmail.com",
