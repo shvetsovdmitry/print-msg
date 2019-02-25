@@ -5,7 +5,8 @@
 ![requirements](https://img.shields.io/requires/github/shvetsovdmitry/print-msg.svg)
 
 ![wheel](https://img.shields.io/pypi/wheel/print-msg.svg)
-![license](https://img.shields.io/github/license/shvetsovdmitry/print-msg.svg) 
+![license](https://img.shields.io/github/license/shvetsovdmitry/print-msg.svg)
+![last commit](https://img.shields.io/github/last-commit/shvetsovdmitry/print-msg.svg)
 ![commit activity](https://img.shields.io/github/commit-activity/m/shvetsovdmitry/print-msg.svg)
 ![goto counter](https://img.shields.io/github/search/shvetsovdmitry/print-msg/goto.svg)
 
