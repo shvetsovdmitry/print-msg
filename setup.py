@@ -15,7 +15,7 @@ def read(file: str) -> list:
 
 setuptools.setup(
     name="print_msg",
-    version="0.9.4.2",
+    version="0.9.4.3",
     author="Shvetsov Dmitry",
     author_email="shvetsovdmitry1996@gmail.com",
     description="Print colored status messages.",
