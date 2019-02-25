@@ -2,3 +2,4 @@ __pycache__/
 print_msg.egg-info/
 dist/
 build/
+screenshots/
