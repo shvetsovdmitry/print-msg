@@ -1,7 +1,6 @@
 # print_msg module 
 
-![Python 3.4, 3.5, 3.6, 3.7](https://img.shields.io/badge/python-3.4%20%7C%203.5%20%7C%203.6%20%7C%203.7-blue.svg)
-![Python version](https://img.shields.io/pypi/pyversions/print-msg.svg)
+![Python 3.4, 3.5, 3.6, 3.7](https://img.shields.io/pypi/pyversions/print-msg.svg)
 ![pypi version](https://img.shields.io/pypi/v/print-msg.svg)
 ![requirements](https://img.shields.io/requires/github/shvetsovdmitry/print-msg.svg)
 
