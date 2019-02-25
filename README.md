@@ -23,6 +23,7 @@
 ## Using:
 ```python
 import print_msg
+
 print_msg(status='%status_code%', msg='%message%', end='%optional%')
 ```
 
