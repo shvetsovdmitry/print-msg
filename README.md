@@ -1,7 +1,30 @@
-# print-msg module
+# print_msg module 
 
-#### This module helps to print messages in color depending on their content.
+![Python 3.4, 3.5, 3.6, 3.7](https://img.shields.io/badge/python-3.4%20%7C%203.5%20%7C%203.6%20%7C%203.7-blue.svg)
+![Python version](https://img.shields.io/pypi/pyversions/print-msg.svg)
+![pypi version](https://img.shields.io/pypi/v/print-msg.svg)
+![wheel](https://img.shields.io/pypi/wheel/print-msg.svg)
+![license](https://img.shields.io/github/license/shvetsovdmitry/print-msg.svg) 
+![commit activity](https://img.shields.io/github/commit-activity/m/shvetsovdmitry/print-msg.svg)
+![goto counter](https://img.shields.io/github/search/shvetsovdmitry/print-msg/goto.svg)
+
+#### This module helps to print status messages in color depending on their content.
+
+## Installation:
+1. `$ git clone https://github.com/shvetsovdmitry/print-msg/`
+2. `$ cd print-msg/`
+3. `$ python3 setup.py sdist`
+4. `$ cd dist/`
+5. `$ sudo pip install print_msg-0.9.3.tar.gz`
 
 ## Using:
-1. `git clone https://github.com/shvetsovdmitry/print-msg/`
-2. `cd print-msg/`
+```python
+import print_msg
+print_msg('%status_code%', '%message%', end='%optional%')
+```
+
+#### Status codes:
+* *`'ok'`* -> `[--OK--] %Message%`;
+* *`'error'`* -> `[-ERROR-] %Message%`;
+* *`'status'`* -> `[STATUS] %Message%`;
+* *`'time'`* -> `[-TIME-] Execution time -> %time%`;
