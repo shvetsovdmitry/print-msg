@@ -11,13 +11,13 @@
 #### This module helps to print status messages in color depending on their content.
 
 ## Installation:
-* #### Github:
+#### Github:
 1. `$ git clone https://github.com/shvetsovdmitry/print-msg/`
 2. `$ cd print-msg/`
 3. `$ python3 setup.py sdist`
 4. `$ cd dist/`
 5. `$ sudo pip install print_msg-0.9.3.tar.gz`
-* #### pip:
+#### pip:
 `$ sudo pip install print-msg`
 
 ## Using:
